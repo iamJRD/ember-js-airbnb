@@ -45,8 +45,11 @@ img {
   position: fixed;
   text-align: center;
   font-weight: 200;
-  left:0px;
-  bottom:0px;
   height:30px;
   width:100%;
+}
+
+.page-footer h5 a {
+  color: #007101;
+  text-decoration: underline;
 }

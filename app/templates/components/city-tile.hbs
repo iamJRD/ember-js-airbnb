@@ -1,5 +1,10 @@
-{{#each city.rentals as |rental|}}
-  <ul>
+<h4>{{city.name}}'s Details</h4>
+<h4>Country: {{city.country}}</h4>
+
+<h3>Rentals available in {{city.name}}:</h3>
+
+<ul>
+  {{#each city.rentals as |rental|}}
     {{rental-tile rental=rental}} {{rental-cost rental}}
-  </ul>
-{{/each}}
+  {{/each}}
+</ul>
