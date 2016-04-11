@@ -1,4 +1,4 @@
-# _Super-Rentals_
+# Air BnB - Ember JavaScript
 
 #### An interactive Air-B&B website  | March 28, 2016
 
