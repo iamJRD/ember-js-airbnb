@@ -2,7 +2,7 @@
 
 #### An interactive Air-B&B website  | March 28, 2016
 
-#### By: Yvonna Contreras & Erik Tolentino
+#### By: Jared Beckler
 
 ## Description
 
@@ -10,7 +10,7 @@ JavaScript: Ember Super Rentals App. This application serves as a platform for t
 
 ## Setup/Installation Requirements
 
-1. Open Terminal and clone into this repository: ```https://github.com/yvonnapc/js-airbnb.git```
+1. Open Terminal and clone into this repository: ```https://github.com/jaredbeckler/ember-js-airbnb```
 2. Within the home directory, run:<br>
        ```$ brew install node ```<br>
        ```$ npm install ```<br>
